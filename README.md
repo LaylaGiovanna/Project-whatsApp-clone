@@ -12,8 +12,8 @@
 
 ## Critérios de Avaliação
 
-[X]Codificou o app conforme o original?<br>
-[ ]Nomeou as classes CSS utilizando o padrão BEM?<br>
+[X] Codificou o app conforme o original?<br>
+[ ] Nomeou as classes CSS utilizando o padrão BEM?<br>
 [X] O app está responsivo?<br>
 [ ] Utilizou algum framework CSS?<br>
 [X] Consumiu o JSON para mostrar todos os contatos?<br>
